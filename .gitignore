@@ -1,0 +1,29 @@
+
+# Android
+local.properties
+*.DS_Store
+**/captures
+
+# Gradle
+**/.gradle
+**/.settings
+**/build
+
+# Intellij
+*.ipr
+*.iml
+*.iws
+**/.idea
+
+#shiyuanzhou_20160905
+*.iml
+*.idea
+*.bin
+/build/
+/gradle/
+gradlew
+*.bat
+/app/build/
+/app/src/main/assets/ShareSDK.xml
+
+**/generator
